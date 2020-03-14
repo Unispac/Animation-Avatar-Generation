@@ -20,27 +20,6 @@ How to run ?
 
 
 
-## 项目来源
-
-本项目实践了基于GAN的动漫头像生成。
-
-想法来源于一个名为 [MakeGirlsMoe](https://make.girls.moe/#/) 的动漫人物生成项目：
-
-![MakeGirlsMoe](https://raw.githubusercontent.com/Unispac/blogImageBed/master/人工智能/GAN/Animation%20Avatar%20Generation/img/1.png)
-
-该项目是由一组来自复旦大学和CMU的学生设计的，曾经一度在github trend上跻身Top 5，并且登上过日本雅虎的首页。项目基于GAN的图像生成技术，允许用户设置特征参数控制动漫人物的自动生成。
-
-并且，项目原作者在最新发布的项目[Crypko](https://crypko.ai/#/)中更是实现了人物连续变化的精确控制，使得通过GAN生成风格连贯的动画成为可能：
-
-![生成](https://raw.githubusercontent.com/Unispac/blogImageBed/master/人工智能/GAN/Animation%20Avatar%20Generation/img/2.png)
-
-除此之外，这一角色生成技术在2D绘图辅助设计上也表现不俗：
-
-![辅助设计](https://raw.githubusercontent.com/Unispac/blogImageBed/master/人工智能/GAN/Animation%20Avatar%20Generation/img/3.png)
-
-可以预见，在动画影视产业高速增长的今天，一个成熟的自动作画/辅助作画的AI系统有着非常大的市场空间。
-
-
 
 ## 项目内容概述
 
