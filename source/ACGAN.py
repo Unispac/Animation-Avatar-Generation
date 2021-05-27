@@ -16,7 +16,7 @@ Dropout = tf.layers.dropout
 class ACGAN:
     modelName = "ACGAN"
 
-    def __init__(self,sess,epoch,batchSize,codeSize,dataSource,\
+    def __init__(self,sess,epoch,batchSize,codeSize,dataSource,
         checkpointDir,resultDir,logDir,mode,height,width,Nchannel):
     ##### 初始化模型处理环境 #####
         #print("wocao ? ")
